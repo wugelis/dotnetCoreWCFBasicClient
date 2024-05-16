@@ -9,7 +9,7 @@
 
 因為這個 MIT 的專案，因此實現這個 WCF 的 ClientBase<> 可安裝官方維護與上傳的 System.ServiceModel 套件，輕易完成 WCF Client
 
-(1). System.ServiceModel.Duplex
-(2). System.ServiceModel.Http
-(3). System.ServiceModel.NetTcp
-(4). System.ServiceModel.Security
+(1). System.ServiceModel.Duplex  
+(2). System.ServiceModel.Http  
+(3). System.ServiceModel.NetTcp  
+(4). System.ServiceModel.Security  
