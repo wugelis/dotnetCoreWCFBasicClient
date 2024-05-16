@@ -3,7 +3,7 @@
 
 ## WCF 的 Open Source Project
 
-先前提到 WCF 的 Open Source Project [https://github.com/dotnet/wcf] 因為這個專案讓這件事情店的容易。
+先前提到 WCF 的 Open Source Project [https://github.com/dotnet/wcf] 因為這個專案讓這件事情變的容易。
 
 ## 套件引用
 
